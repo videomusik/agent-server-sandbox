@@ -1,0 +1,2 @@
+# System packages your project needs inside the sandbox: one Debian package name per line.
+# Everything after a # is ignored. After a change, rebuild the image (docs/maintenance.md, "Updates").

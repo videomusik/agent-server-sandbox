@@ -1,0 +1,4 @@
+.DS_Store
+# backups of the sandbox's home volume (docs/maintenance.md) hold its Claude login and keys
+*.tgz
+.claude/settings.local.json
